@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashswi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashswi23&label=Profile%20views&color=0e75b6&style=flat" alt="yashswi23" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/736x/19/e4/a2/19e4a2cad8d43690a70eb971740d75b2.jpg&style=flat" alt="yashswi23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashswi23" alt="yashswi23" /></a> </p>
 
