@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/19/e4/a2/19e4a2cad8d43690a70eb971740d75b2.jpg" alt="yashswi23" height="200"/>
+  <img src="https://i.pinimg.com/736x/19/e4/a2/19e4a2cad8d43690a70eb971740d75b2.jpg" alt="yashswi23" height="100"/>
 </p>
 
 ---
