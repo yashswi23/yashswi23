@@ -57,6 +57,8 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
+[![Contributed to ShishuCard/Vaccination_Portal](https://img.shields.io/badge/Contributed-%F0%9F%91%89%20Vaccination__Portal-blue?logo=github)](https://github.com/ShishuCard/Vaccination_Portal)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashswi23&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
